@@ -1,0 +1,14 @@
+# Ignore .env file
+.env
+
+# Ignore ps folder
+ps/
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore __test__ folder
+__tests__/
+
+# Ignore test.config files
+test.config*
